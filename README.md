@@ -1,5 +1,6 @@
 # data8
-Projects from my data science course
+These are some projects from the data science course I took.
+
 In project 2, I did the following:
 Tested whether observed data appears to be a random sample from a distribution,
 Analyzed a natural experiment,
